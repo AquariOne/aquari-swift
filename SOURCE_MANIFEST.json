@@ -1,0 +1,119 @@
+{
+  "family": "swift",
+  "version": "1.0.0",
+  "source_commit": "cf893e2d16b86550dc2df1cb997112635fd8b0e1",
+  "source_worktree_dirty": false,
+  "note": "SDK-only export. No private monorepo Git history is included.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 28,
+      "sha256": "0127b47d29f25aa72765aeae42b027a0ef39344d8917cebcc56ffcc8494076b3"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 500,
+      "sha256": "ca113e99b250782f49186580628b42e11e6c93d1963854ab2cfdddaf365ef535"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "NOTICE",
+      "bytes": 224,
+      "sha256": "dc108c5070eb593e42d0f126e91fd47c7f2416d627cd53a9cd1198120e5bc5ba"
+    },
+    {
+      "path": "Package.swift",
+      "bytes": 384,
+      "sha256": "b8a39a27a504f85b1e5280901248ef52cc345d179add1f2f19db715e4c1d6597"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1723,
+      "sha256": "c6cb97b1451e2345aa83256618c423fc97f350416ed65d71a9353011bc27026a"
+    },
+    {
+      "path": "Sources/AquariOne/AquariApple.swift",
+      "bytes": 18375,
+      "sha256": "56b7af22a2a635096460a2abd0dfd5b61d6e564383dfc831a31b73e713d314eb"
+    },
+    {
+      "path": "Sources/AquariOne/AquariAuth.swift",
+      "bytes": 14616,
+      "sha256": "10f344a34dc882eabadcae6ebf9076dbc71dc7d8197d5c43200251bb0d496f70"
+    },
+    {
+      "path": "Sources/AquariOne/AquariClient.swift",
+      "bytes": 2423,
+      "sha256": "3ddcac99e8857f609dc219793165ebbb989c4ddaefa92aa65f1b33b822dba286"
+    },
+    {
+      "path": "Sources/AquariOne/AquariConfiguration.swift",
+      "bytes": 5723,
+      "sha256": "41bb6c1b55326432a9ca9ef3268f0e73d7bc0488ed16dda21769b8f12c8a0716"
+    },
+    {
+      "path": "Sources/AquariOne/AquariErrors.swift",
+      "bytes": 2645,
+      "sha256": "2db1f0a6fd6503645b0a198de074fd2fdf6da942ff1338bc5fc8cf31a209435c"
+    },
+    {
+      "path": "Sources/AquariOne/AquariHTTP.swift",
+      "bytes": 11683,
+      "sha256": "aa3a31c99c7a8a9ec89a6466813ebdcd94f56bd9f7f8ea0859c1a0a898694e33"
+    },
+    {
+      "path": "Sources/AquariOne/AquariJWT.swift",
+      "bytes": 7030,
+      "sha256": "b68c3f098a039ad18a212aa83191813d48bec0f381b145e3dd039ed86ed692ad"
+    },
+    {
+      "path": "Sources/AquariOne/AquariModels.swift",
+      "bytes": 3402,
+      "sha256": "b103ebe8f4a8982986ad4b282eaf7ed1212fb1051e7bf5f852f1d47e45fb45dc"
+    },
+    {
+      "path": "Sources/AquariOne/AquariOIDC.swift",
+      "bytes": 5022,
+      "sha256": "059a7b71dc27f67e509b3a1ad0cf951d3d90eb5d932cd91122db16be7209f503"
+    },
+    {
+      "path": "Sources/AquariOne/AquariPKCE.swift",
+      "bytes": 5608,
+      "sha256": "223a55a35f7ca72b83bd6098f5c023541c49fac0e8590540a283114503d97bfa"
+    },
+    {
+      "path": "Sources/AquariOne/AquariPassport.swift",
+      "bytes": 14056,
+      "sha256": "68a2abde2e212e9558dd9c367aa474e2708adc0407b5beeb2033c5a43e044c53"
+    },
+    {
+      "path": "Sources/AquariOne/AquariScopes.swift",
+      "bytes": 343,
+      "sha256": "ff7afbaaad594537d36b8975210c3090b515dc5cb9a8717fc557a318e56aea0a"
+    },
+    {
+      "path": "Sources/AquariOne/AquariStorage.swift",
+      "bytes": 6874,
+      "sha256": "d18f9f7c973ba7aff340a4328b645afa676d53075d0129933eab950972527bf9"
+    },
+    {
+      "path": "Sources/AquariOne/AquariTrust.swift",
+      "bytes": 4909,
+      "sha256": "f41fca7190e9b23e7bfcd430524725a2e6ed7ee3ba0fc08beccb56d9848a289a"
+    },
+    {
+      "path": "Sources/AquariOne/AquariWire.swift",
+      "bytes": 1791,
+      "sha256": "30217deef84e399d12f61cfe8f299b7e21ee0d6b7844bf446b5a0b36d328c3a4"
+    },
+    {
+      "path": "Tests/AquariOneTests/AquariOneTests.swift",
+      "bytes": 11111,
+      "sha256": "c805d3ffbd92eca1ce9f4424384e981c7babe90d93d9021860005e331d4a199f"
+    }
+  ]
+}
